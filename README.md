@@ -50,3 +50,7 @@ Tips to check if an exe file is safe:
 ### Educational Purposes Only
 This tool demonstrates and makes it easy to create your own grabber. This shows what type of information attackers can grab from a victim's computer. 
 Only use this on your own PC and do not use it on other people maliciously.
+
+### Important!
+Many people create fake files of Marcurial. This is the only working one and all other "Mercurials" are malware! Do not download any other programs that are named Mercurial!
+Stay safe!
